@@ -1,0 +1,9 @@
+[submodule "css"]
+	path = css
+	url = https://github.com/lucas-solutions/css.git
+[submodule "js"]
+	path = js
+	url = https://github.com/lucas-solutions/javascripts.git
+[submodule "sass"]
+	path = sass
+	url = https://github.com/lucas-solutions/sass.git
