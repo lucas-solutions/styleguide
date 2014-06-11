@@ -7,3 +7,6 @@
 [submodule "sass"]
 	path = sass
 	url = https://github.com/lucas-solutions/sass.git
+[submodule "img"]
+	path = img
+	url = https://github.com/lucas-solutions/images.git
